@@ -9,7 +9,6 @@
 * 📂 [Dataset](#dataset)
 * 🧙‍♂️ [Case Study Questions](#case-study-questions)
 * 🚀 [Solutions](#solutions)
-* 🐋 [Limitations](#limitations)
   
   ---
  
